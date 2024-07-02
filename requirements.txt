@@ -34,7 +34,7 @@ pydictionary
 pyfiglet
 pykeyboard
 pymongo
-pynewtonmate
+pynewtonmath
 pyrate-limiter
 pyshorteners
 pyrogram
