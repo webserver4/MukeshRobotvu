@@ -8,7 +8,7 @@ class Config(object):
     SUPPORT_CHAT = "-1002150515664" 
     START_IMG = ""
     EVENT_LOGS = ()
-    MONGO_DB_URI= ""
+    MONGO_DB_URI= "mongodb+srv://chaunisha765:5WzIHZGSTxW63T4n@cluster0.ctmouf7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
    
     DATABASE_URL = "postgresql://postgres.adldmnbzdckqwrckabtj:Aaryanary1097@aws-0-ap-south-1.pooler.supabase.com:6543/postgres"  # A sql database url from elephantsql.com
     CASH_API_KEY = (
